@@ -38,11 +38,21 @@
 ![](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 ***
 #### Olá, <br/> meu nome é Vinícius e tenho grande interesse pela área de tecnologia, gosto e me disponho para aprender coisas novas por vontade própria e também sob demanda, sempre que posso busco me especializar mais nas áreas adjacentes da minha profissão, assim conseguir oferecer uma melhor prestação de serviços.
-<center>
-<table>
-  <tr>
-  <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=ViniciusBatistaDeVasconcelos&theme=material-palenight"/></td>
-  <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBatistaDeVasconcelos&hide=javascript,html,css&layout=compact&theme=material-palenight"/></td>
-  </tr>
-</table>
- </center>
+
+<a href="https://github.com/ViniciusBatistaDeVasconcelos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBatistaDeVasconcelos&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ViniciusBatistaDeVasconcelos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusBatistaDeVasconcelos&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/ViniciusBatistaDeVasconcelos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBatistaDeVasconcelos&repo=ViniciusBatistaDeVasconcelos&theme=dark" />
+</a>
+
+<a href="https://github.com/ViniciusBatistaDeVasconcelos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusBatistaDeVasconcelos&repo=ViniciusBatistaDeVasconcelos&theme=dark" />
+</a>
+
