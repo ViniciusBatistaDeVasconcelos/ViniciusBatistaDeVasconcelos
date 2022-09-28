@@ -47,3 +47,7 @@
 <a href="https://github.com/ViniciusBatistaDeVasconcelos">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusBatistaDeVasconcelos&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
+
+***
+
+![Snake animation](https://github.com/andrecandrad/viniciusbatistadevasconcelos/blob/output/github-contribution-grid-snake.svg)
