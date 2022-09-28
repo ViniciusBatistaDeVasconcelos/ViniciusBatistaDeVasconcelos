@@ -50,4 +50,4 @@
 
 ***
 
-![Snake animation](https://github.com/andrecandrad/viniciusbatistadevasconcelos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ViniciusBatistaDeVasconcelos/ViniciusBatistaDeVasconcelos/blob/output/github-contribution-grid-snake.svg)
