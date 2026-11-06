@@ -43,7 +43,3 @@
 <a href="https://github.com/ViniciusBatistaDeVasconcelos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBatistaDeVasconcelos&theme=dark&hide_langs_below=1&layout=compact"/>
 </a>
-
-<a href="https://github.com/ViniciusBatistaDeVasconcelos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusBatistaDeVasconcelos&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
